@@ -1,0 +1,17 @@
+{
+  "name": "shop-management",
+  "version": "1.0.0",
+  "description": "<h1>某东商品管理系统</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {}
+}
